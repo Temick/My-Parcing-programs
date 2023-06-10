@@ -1,0 +1,128 @@
+[
+    {
+        "Name": "PyDay La Paz 2023",
+        "Location": "Higher University of San Andrés (UMSA), J.J.Perez, La Paz, Bolivia",
+        "Date": "10 June                         ,                         2023",
+        "Silka": "https://pyday.pylapaz.org/"
+    },
+    {
+        "Name": "World Conference on Data Science & Statistics",
+        "Location": "Frankfurt, Germany",
+        "Date": "From 26 Junethrough 28 June,                         2023",
+        "Silka": "https://datascience.thepeopleevents.com/"
+    },
+    {
+        "Name": "SciPy 2023",
+        "Location": "Austin, Texas, USA",
+        "Date": "From 10 Julythrough 16 July,                         2023",
+        "Silka": "https://www.scipy2023.scipy.org/"
+    },
+    {
+        "Name": "EuroPython 2023",
+        "Location": "Prague, Czech Republic",
+        "Date": "From 17 Julythrough 23 July,                         2023",
+        "Silka": "https://ep2023.europython.eu/"
+    },
+    {
+        "Name": "North Bay Python",
+        "Location": "Petaluma, California, USA",
+        "Date": "From 29 Julythrough 30 July,                         2023",
+        "Silka": "https://2023.northbaypython.org/"
+    },
+    {
+        "Name": "PyConTW 2023",
+        "Location": "Nankang, Taipei 115, Taiwan",
+        "Date": "From 02 Sept.through 03 Sept.,                         2023",
+        "Silka": "https://tw.pycon.org/2023/"
+    },
+    {
+        "Name": "PyCon Estonia 2023",
+        "Location": "Tallinn University, Narva mnt 25, 10120 Tallinn, Estonia",
+        "Date": "From 07 Sept.through 08 Sept.,                         2023",
+        "Silka": "https://pycon.ee/"
+    },
+    {
+        "Name": "Kiwi PyCon 2023",
+        "Location": "Waihopai, Invercargill, New Zealand",
+        "Date": "From 15 Sept.through 17 Sept.,                         2023",
+        "Silka": "https://kiwipycon.nz/"
+    },
+    {
+        "Name": "PyCon Uganda",
+        "Location": "Kampala, Uganda",
+        "Date": "From 21 Sept.through 23 Sept.,                         2023",
+        "Silka": "https://ug.pycon.org/"
+    },
+    {
+        "Name": "PyCon UK 2023",
+        "Location": "Cardiff, UK",
+        "Date": "From 22 Sept.through 25 Sept.,                         2023",
+        "Silka": "https://2023.pyconuk.org/"
+    },
+    {
+        "Name": "PyCon India 2023",
+        "Location": "Hyderabad, Telangana, India",
+        "Date": "From 29 Sept.through 02 Oct.,                         2023",
+        "Silka": "https://in.pycon.org/2023/"
+    },
+    {
+        "Name": "PyConZA 2023",
+        "Location": "Umhlanga, Durban, South Africa and Online",
+        "Date": "From 05 Oct.through 06 Oct.,                         2023",
+        "Silka": "https://za.pycon.org/"
+    },
+    {
+        "Name": "PyCon MEA & Data Science 2023",
+        "Location": "Dubai, UAE",
+        "Date": "From 16 Oct.through 19 Oct.,                         2023",
+        "Silka": "https://globaldevslam.com/"
+    },
+    {
+        "Name": "DjangoCon US 2023",
+        "Location": "Durham, North Carolina, USA",
+        "Date": "From 16 Oct.through 20 Oct.,                         2023",
+        "Silka": "https://2023.djangocon.us/"
+    },
+    {
+        "Name": "PyCon APAC 2023",
+        "Location": "Tokyo, Japan",
+        "Date": "From 27 Oct.through 29 Oct.,                         2023",
+        "Silka": "https://2023-apac.pycon.jp/"
+    },
+    {
+        "Name": "PyCon Sweden",
+        "Location": "Hilton Stockholm Slussen, Guldgränd 8, 104 65 Stockholm, Sweden",
+        "Date": "From 09 Nov.through 10 Nov.,                         2023",
+        "Silka": "https://www.pycon.se"
+    },
+    {
+        "Name": "PyCon SK 2024",
+        "Location": "Bratislava, Slovakia",
+        "Date": "From 15 Marchthrough 17 March,                         2024",
+        "Silka": "https://2024.pycon.sk/"
+    },
+    {
+        "Name": "PyTexas 2024",
+        "Location": "Austin, TX",
+        "Date": "From 20 Aprilthrough 21 April,                         2024",
+        "Silka": "http://pytexas.org/"
+    },
+    {
+        "Name": "PyCon US 2024",
+        "Location": "Pittsburgh, Pennsylvania, USA",
+        "Date": "From 15 Maythrough 23 May,                         2024",
+        "Silka": "https://us.pycon.org/"
+    },
+    {
+        "Name": "PyCon Italia 2024",
+        "Location": "Metropolitan City of Florence, Italy",
+        "Date": "From 22 Maythrough 25 May,                         2024",
+        "Silka": "https://pycon.it/"
+    },
+    {
+        "Name": "PyCon US 2025",
+        "Location": "Pittsburgh, Pennsylvania, USA",
+        "Date": "From 14 Maythrough 22 May,                         2025",
+        "Silka": "https://us.pycon.org/"
+    }
+]

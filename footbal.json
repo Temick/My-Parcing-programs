@@ -1,0 +1,338 @@
+[
+    {
+        "NameMatchAndResult": "Манчестер Сити – Интер М",
+        "TimeMatch": "22:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_ucl/tournament/4993/match/1034603/"
+    },
+    {
+        "NameMatchAndResult": "Пари Нижний Новгород – Родина",
+        "TimeMatch": "14:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_russiapl/tournament/5421/match/1098989/"
+    },
+    {
+        "NameMatchAndResult": "Факел – Енисей",
+        "TimeMatch": "17:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_russiapl/tournament/5421/match/1098983/"
+    },
+    {
+        "NameMatchAndResult": "Киргизия – Афганистан",
+        "TimeMatch": "21:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_russia/tournament/5251/match/1099341/"
+    },
+    {
+        "NameMatchAndResult": "Звезда-2005 (ж) – Чертаново (ж)",
+        "TimeMatch": "14:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_women/tournament/5281/match/1079105/"
+    },
+    {
+        "NameMatchAndResult": "Крылья Советов (ж) – ЦСКА (ж)",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_women/tournament/5281/match/1079099/"
+    },
+    {
+        "NameMatchAndResult": "Рубин (ж) – Ростов (ж)",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_women/tournament/5281/match/1079103/"
+    },
+    {
+        "NameMatchAndResult": "Зенит (ж) – Краснодар (ж)",
+        "TimeMatch": "18:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_women/tournament/5281/match/1079095/"
+    },
+    {
+        "NameMatchAndResult": "Динамо (ж) – Енисей (ж)",
+        "TimeMatch": "18:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_women/tournament/5281/match/1079097/"
+    },
+    {
+        "NameMatchAndResult": "Рязань-ВДВ (ж) – Локомотив (ж)",
+        "TimeMatch": "20:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_women/tournament/5281/match/1079101/"
+    },
+    {
+        "NameMatchAndResult": "Индепендьенте – Атлетико Сармьенто 2 : 0",
+        "TimeMatch": "02:00",
+        "StatusMatch": "Окончен",
+        "URL_Match": "https://www.championat.com/football/_southamerica/tournament/5195/match/1072917/"
+    },
+    {
+        "NameMatchAndResult": "Платенсе – Тигре",
+        "TimeMatch": "11.06 01:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_southamerica/tournament/5195/match/1072857/"
+    },
+    {
+        "NameMatchAndResult": "Слуцк – Нафтан",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5291/match/1080537/"
+    },
+    {
+        "NameMatchAndResult": "Минск – Сморгонь",
+        "TimeMatch": "18:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5291/match/1080511/"
+    },
+    {
+        "NameMatchAndResult": "Неман – Славия-Мозырь",
+        "TimeMatch": "20:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5291/match/1080519/"
+    },
+    {
+        "NameMatchAndResult": "Коритиба – Сантос",
+        "TimeMatch": "22:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_southamerica/tournament/5301/match/1083547/"
+    },
+    {
+        "NameMatchAndResult": "Коринтианс – Куяба",
+        "TimeMatch": "11.06 00:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_southamerica/tournament/5301/match/1083555/"
+    },
+    {
+        "NameMatchAndResult": "Баия – Крузейро",
+        "TimeMatch": "11.06 00:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_southamerica/tournament/5301/match/1083557/"
+    },
+    {
+        "NameMatchAndResult": "Атлетико Минейро – Ред Булл Брагантино",
+        "TimeMatch": "11.06 00:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_southamerica/tournament/5301/match/1083567/"
+    },
+    {
+        "NameMatchAndResult": "Алания Владикавказ-2 – Спартак-Нальчик",
+        "TimeMatch": "13:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5101/match/1096891/"
+    },
+    {
+        "NameMatchAndResult": "Машук-КМВ – Дружба",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5101/match/1096889/"
+    },
+    {
+        "NameMatchAndResult": "Легион Динамо – СКА Ростов-на-Дону",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5101/match/1096887/"
+    },
+    {
+        "NameMatchAndResult": "Динамо-Вологда – Енисей-2",
+        "TimeMatch": "14:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5099/match/1088649/"
+    },
+    {
+        "NameMatchAndResult": "Торпедо-Владимир – Звезда СПб",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5099/match/1088643/"
+    },
+    {
+        "NameMatchAndResult": "Чертаново – Балтика-БФУ",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5099/match/1088645/"
+    },
+    {
+        "NameMatchAndResult": "Зоркий-Красногорск – Текстильщик",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5099/match/1088647/"
+    },
+    {
+        "NameMatchAndResult": "Муром – Ленинградец",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5099/match/1088651/"
+    },
+    {
+        "NameMatchAndResult": "Спартак Кс – Луки-Энергия",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5099/match/1088653/"
+    },
+    {
+        "NameMatchAndResult": "СКА-Хабаровск-2 – Строгино",
+        "TimeMatch": "06:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1089003/"
+    },
+    {
+        "NameMatchAndResult": "Сахалин – Химки-М",
+        "TimeMatch": "08:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1089001/"
+    },
+    {
+        "NameMatchAndResult": "Динамо-Владивосток – Сахалинец",
+        "TimeMatch": "12:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088869/"
+    },
+    {
+        "NameMatchAndResult": "Коломна – Спартак Тм",
+        "TimeMatch": "13:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1089007/"
+    },
+    {
+        "NameMatchAndResult": "Сатурн – Рязань",
+        "TimeMatch": "14:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088867/"
+    },
+    {
+        "NameMatchAndResult": "Знамя – Квант",
+        "TimeMatch": "14:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088997/"
+    },
+    {
+        "NameMatchAndResult": "Балашиха – Арсенал-2",
+        "TimeMatch": "15:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1089005/"
+    },
+    {
+        "NameMatchAndResult": "Зенит Пз – Пересвет",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088999/"
+    },
+    {
+        "NameMatchAndResult": "Салют Белгород – Родина-2",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088865/"
+    },
+    {
+        "NameMatchAndResult": "Сокол – Динамо-Брянск",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088871/"
+    },
+    {
+        "NameMatchAndResult": "Калуга – Металлург Лп",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088873/"
+    },
+    {
+        "NameMatchAndResult": "Космос – Авангард К",
+        "TimeMatch": "16:30",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_russia2d/tournament/5097/match/1088875/"
+    },
+    {
+        "NameMatchAndResult": "Ауда – Даугавпилс",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5373/match/1095533/"
+    },
+    {
+        "NameMatchAndResult": "Тукумс 2000 – Елгава",
+        "TimeMatch": "18:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5373/match/1095531/"
+    },
+    {
+        "NameMatchAndResult": "Судува – Ритеряй",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5375/match/1095919/"
+    },
+    {
+        "NameMatchAndResult": "Шяуляй – Банга",
+        "TimeMatch": "19:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5375/match/1095907/"
+    },
+    {
+        "NameMatchAndResult": "Рубин Ялта – Севастополь",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5283/match/1097145/"
+    },
+    {
+        "NameMatchAndResult": "Алустон-ЮБК – Таврия",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5283/match/1097147/"
+    },
+    {
+        "NameMatchAndResult": "Черноморец – Океан",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5283/match/1097151/"
+    },
+    {
+        "NameMatchAndResult": "Спарта-КТ – Кызылташ",
+        "TimeMatch": "18:00",
+        "StatusMatch": "Нет данных",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5283/match/1097149/"
+    },
+    {
+        "NameMatchAndResult": "Вернаму – Мальмё",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5239/match/1076439/"
+    },
+    {
+        "NameMatchAndResult": "Кальмар – Дегерфорс",
+        "TimeMatch": "16:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5239/match/1076443/"
+    },
+    {
+        "NameMatchAndResult": "Варберг Боис – Хальмстад",
+        "TimeMatch": "18:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5239/match/1076425/"
+    },
+    {
+        "NameMatchAndResult": "Вапрус – Флора",
+        "TimeMatch": "17:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5329/match/1090181/"
+    },
+    {
+        "NameMatchAndResult": "Нымме Калью – Курессааре",
+        "TimeMatch": "19:30",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5329/match/1090177/"
+    },
+    {
+        "NameMatchAndResult": "Иокогама Ф. Маринос – Касива Рейсол",
+        "TimeMatch": "10:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5371/match/1095039/"
+    },
+    {
+        "NameMatchAndResult": "Сересо – Виссел Кобе",
+        "TimeMatch": "13:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5371/match/1095027/"
+    },
+    {
+        "NameMatchAndResult": "Саган Тосу – Хоккайдо Консадоле",
+        "TimeMatch": "13:00",
+        "StatusMatch": "Не начался",
+        "URL_Match": "https://www.championat.com/football/_other/tournament/5371/match/1095045/"
+    }
+]
